@@ -1,0 +1,61 @@
+.img-fluid{
+    height: 50px;
+}
+.navber a{
+    text-decoration: none;
+    color:black;
+}
+.navber li {
+    list-style: none;
+    margin-left:18px ;
+}
+.navber {
+    display: flex;
+    justify-content: center;
+    margin-top: 13px;
+}
+#logo {
+    display: flex;
+    margin-top: 5px;
+}
+.surchbar{
+    display: flex;
+    margin-left: 41vw;
+    width: 290px;
+    margin-top: 5px;
+    height: 40px ;
+}
+#slider{
+    height: 520px;
+}
+#h1{
+    margin-top: 50px;
+}
+#h1 h3{
+    color: black;
+
+}
+#h1 button{
+    margin-top: 50px;
+}
+#card2 h4{
+    margin-top: 150px;
+}
+#navber2 a{
+    text-decoration: none;
+
+}
+#footer{
+    color:aliceblue;
+}
+#footer{
+    background-color: black;
+}
+#footer li{
+    list-style: none;
+}
+.img-fluid1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 80PX;
+}
